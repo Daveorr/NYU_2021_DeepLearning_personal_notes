@@ -4,6 +4,6 @@ A collection of personal notes with code from Deep Learning Course NYU Deep Lear
 
 Official references:
 
-Course website: http://bit.ly/DLSP21-home
-Playlist: http://bit.ly/DLSP21-YouTube
-Speaker: Yann LeCun, Alfredo Canziani
+- Course website: http://bit.ly/DLSP21-home
+- Playlist: http://bit.ly/DLSP21-YouTube
+- Speaker: Yann LeCun, Alfredo Canziani
